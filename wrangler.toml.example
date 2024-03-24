@@ -5,7 +5,7 @@ compatibility_date = "2023-12-01"
 # MY_VAR = "my-variable"
 
 [[kv_namespaces]]
-binding = ""
+binding = "Web3Login"
 id = ""
 
 # [[r2_buckets]]
